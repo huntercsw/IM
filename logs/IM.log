@@ -1,0 +1,7 @@
+2020-07-31T10:13:59.637+0800	INFO	IM/main.go:12	service start
+2020-07-31T10:17:35.140+0800	INFO	IM/main.go:12	service start
+2020-07-31T10:20:07.051+0800	INFO	IM/main.go:12	service start
+2020-07-31T10:21:16.081+0800	INFO	IM/main.go:17	service start
+2020-07-31T10:21:32.585+0800	INFO	IM/main.go:17	service start
+2020-07-31T10:22:10.470+0800	INFO	IM/main.go:17	service start
+2020-07-31T14:35:54.255+0800	ERROR	IM/main.go:20	run gin service error:listen tcp 0.0.0.0:9999: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
